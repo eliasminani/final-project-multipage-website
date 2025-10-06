@@ -15,4 +15,43 @@ A modern, responsive portfolio website built to showcase IT services, profession
 ---
 
 ##  Project Structure
+ELGRAM-TECH-SOLUTIONS/
+│
+├── index.html
+├── about.html
+├── services.html
+├── gallery.html
+├── contact.html
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── script.js
+│
+├── images/
+│ ├── elias-profile.jpg
+│ ├── service1.jpg
+│ ├── service2.jpg
+│ ├── service3.jpg
+│ ├── gallery1.jpg
+│ ├── gallery2.jpg
+│ ├── gallery3.jpg
+│ └── gallery4.jpg
+│
+└── README.md
+
+---
+
+## 🧠 Technologies Used
+
+- **HTML5** — Semantic and accessible structure  
+- **CSS3** — Flexbox, grid, and responsive breakpoints  
+- **JavaScript (Vanilla)** — Menu toggle and form handling  
+- **GitHub Pages** — For hosting and deployment  
+
+---
+
+
+
 
